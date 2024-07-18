@@ -1,71 +1,76 @@
-# Getting Started with Create React App
+<div align="center">
+    <a href="https://budget-fv.netlify.app/" target="_blank">
+      <img src="public/preview.webp" alt="Project Banner">
+    </a>
+  <h3 align="center">Budget App - React</h3>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##  <br /> 📋 <a name="table">Table of Contents</a>
 
-## Available Scripts
+- ✨ [Introduction](#introduction)
+- ⚙️ [Tech Stack](#tech-stack)
+- 📝 [Features](#features)
+- 🚀 [Quick Start](#quick-start)
 
-In the project directory, you can run:
+##  <br /> <a name="introduction">✨ Introduction</a>
 
-### `npm start`
+**[EN]** Budgeting application built using React, focusing on CRUD (Create, Read, Update, Delete) operations. It covers intermediate and beginner-level React concepts, demonstrating how to manage budget data effectively. The app is designed to help users track and manage their finances with a user-friendly interface.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**[FR]** 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-### `npm test`
+- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Bootstrap** is a front-end framework celebrated for its extensive suite of pre-styled components and responsive grid system. It simplifies the development of mobile-first websites and applications, offering developers flexibility and cross-browser compatibility.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## <br/> <a name="features">📝 Features</a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+👉 **React**: Utilizes React's component-based architecture for building dynamic user interfaces.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+👉 **CRUD**: Implements Create, Read, Update, and Delete functionalities for managing budget items.
 
-### `npm run eject`
+👉 **Data Management**: Demonstrates effective data management techniques in React applications.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## <br /> <a name="quick-start">🚀 Quick Start</a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Follow these steps to set up the project locally on your machine.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<br/>**Prerequisites**
 
-## Learn More
+Make sure you have the following installed on your machine:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br/>**Cloning the Repository**
 
-### Code Splitting
+```bash
+git clone {git remote URL}
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br/>**Installation**
 
-### Analyzing the Bundle Size
+Let's install the project dependencies, from your terminal, run:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+npm install
+# or
+yarn install
+```
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br/>**Running the Project**
 
-### Advanced Configuration
+Installation will take a minute or two, but once that's done, you should be able to run the following command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```bash
+npm start
+# or
+yarn start
+```
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# react-budget-app
+Open [`http://localhost:3000`](http://localhost:3000) in your browser to view the project.
