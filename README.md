@@ -14,9 +14,9 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** Budgeting application built using React, focusing on CRUD (Create, Read, Update, Delete) operations. It covers intermediate and beginner-level React concepts, demonstrating how to manage budget data effectively. The app is designed to help users track and manage their finances with a user-friendly interface.
+**[EN]** Budgeting application built using React, focusing on CRUD (Create, Read, Update, Delete) operations. It covers intermediate and beginner-level React concepts, demonstrating how to manage budget data effectively. 
 
-**[FR]** 
+**[FR]** Application de gestion de budget construite avec React, mettant l'accent sur les opérations CRUD (Create, Read, Update, Delete). Elle couvre des concepts intermédiaires et débutants de React, démontrant comment gérer efficacement les données budgétaires.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
