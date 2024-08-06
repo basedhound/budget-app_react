@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://budget-fv.netlify.app/" target="_blank">
-      <img src="public/preview.webp" alt="Project Banner">
+      <img src="public/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Budget App - React</h3>
 </div>
@@ -20,9 +20,9 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-- **Bootstrap** is a front-end framework celebrated for its extensive suite of pre-styled components and responsive grid system. It simplifies the development of mobile-first websites and applications, offering developers flexibility and cross-browser compatibility.
+- [**Bootstrap**](https://getbootstrap.com/docs/4.1/getting-started/introduction/) is a front-end framework celebrated for its extensive suite of pre-styled components and responsive grid system. It simplifies the development of mobile-first websites and applications, offering developers flexibility and cross-browser compatibility.
 
 
 ## <br/> <a name="features">📝 Features</a>
